@@ -75,5 +75,8 @@
 
 --- 
 
-##Etherscan地址
-https://sepolia.etherscan.io/token/0x7d0793aba48ed80bb229efe586c1020918d30f24?a=0x7d0793abA48ED80BB229efe586c1020918D30F24
+## 🔗 Etherscan 合约地址
+
+你可以在 Etherscan 上查看合约与交易详情：
+
+👉 [https://sepolia.etherscan.io/token/0x7d0793abA48ED80BB229efe586c1020918D30F24](https://sepolia.etherscan.io/token/0x7d0793abA48ED80bb229efe586c1020918D30F24?a=0x7d0793abA48ED80BB229efe586c1020918D30F24)
