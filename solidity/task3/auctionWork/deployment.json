@@ -1,0 +1,14 @@
+{
+  "network": "sepolia",
+  "PriceOracle": "0x4CD64219dDC61820D859A38d2E95Aa0156f62491",
+  "PriceOracleProxyAdmin": "0xbB21B11E973c6AE2c13bc3B788B71b59B6d50035",
+  "PriceOracleImplementation": "0x15845E60A48dfc1EbB8b272baaC45880d52A4335",
+  "ChainlinkETHUSDPriceFeed": "0x694AA1769357215DE4FAC081bf1f309aDC325306",
+  "AuctionV1Proxy": "0xC8228c7A9165a22459022a3B0e1B11C41DF15560",
+  "ProxyAdmin": "0xbB21B11E973c6AE2c13bc3B788B71b59B6d50035",
+  "AuctionV1Implementation": "0x15845E60A48dfc1EbB8b272baaC45880d52A4335",
+  "AuctionV2Implementation": "0x15845E60A48dfc1EbB8b272baaC45880d52A4335",
+  "deployedAt": "2025-12-04T02:28:38.352Z",
+  "upgradedAt": "2025-12-04T02:29:05.233Z",
+  "updatedAt": "2025-12-04T02:29:05.233Z"
+}
