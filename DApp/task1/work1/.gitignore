@@ -1,0 +1,27 @@
+# Go 构建文件
+bin/
+build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 编译产物
+*.log
+*.out
+
+# IDE 相关
+.vscode/
+.idea/
+
+# 环境变量文件（重要）
+.env
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# Go module 缓存
+/pkg/
