@@ -1,0 +1,8 @@
+=============== Dec 7, 2025 (CST) ===============
+11:06:12.524809 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:06:12.528580 db@open opening
+11:06:12.528727 version@stat F·[] S·0B[] Sc·[]
+11:06:12.530046 db@janitor F·2 G·0
+11:06:12.530053 db@open done T·1.464113ms
+11:06:12.546301 db@close closing
+11:06:12.546365 db@close done T·63.148µs
